@@ -1,5 +1,5 @@
 # Business-Operations-Compliance-Backend-Internship
-This project was undertaken as part of an internship under the Excelerate website, this project centers on researching Pepagora’s platform ecosystem, mapping user onboarding experiences, benchmarking leading B2B platforms, and designing a refined onboarding framework supported by strategic insights.
+This project was undertaken as part of an internship under the **Excelerate** website, this project centers on researching Pepagora’s platform ecosystem, mapping user onboarding experiences, benchmarking leading B2B platforms, and designing a refined onboarding framework supported by strategic insights.
 
 # ╰┈➤ 📝 Steps Breakdown
 <img width="1536" height="1024" alt="Key image of deliverables" src="https://github.com/user-attachments/assets/861265cc-d327-4be4-9e7d-5b088cc14748" />
